@@ -41,8 +41,7 @@ Here’s a list of tools and technologies I use regularly:
 
 ### Let’s Connect!  
 - 📧 **Email**: [matiasjriosb@gmail.com](mailto:matiasjriosb@gmail.com)  
-- 🌐 **LinkedIn**: [Matías Ríos](https://www.linkedin.com/in/matiasrios)  
-- 🐦 **Twitter**: [@matiasjrios](https://twitter.com/matiasjrios)
+- 🌐 **LinkedIn**: [Matías Ríos](https://www.linkedin.com/in/matiasjriosb/)  
 
 ---
 
