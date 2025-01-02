@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Matías Ríos
 
-I'm a **Software Engineer** with 4+ years of experience working across different industries, from e-commerce to logistics and healthcare. I’m passionate about **building scalable backend systems**, improving performance, and making things work smoothly. I’ve worked on everything from mobile apps to backend APIs, but my heart lies in crafting clean, efficient, and reliable backend systems.  
+I'm a **Software Engineer** with 4+ years of experience working across different industries, from e-commerce to logistics and healthcare. I’m passionate about **building scalable systems**, improving performance, and making things work smoothly. I’ve worked on everything from mobile apps to backend APIs, but my heart lies in crafting clean, efficient, and reliable systems.  
 
-When I'm not coding, you'll find me at the gym, playing soccer, or hanging out with friends and family. I also co-run a software venture called **Geome7ric**.
+When I'm not coding, you'll find me at the gym, playing soccer, or hanging out with friends and family. I also co-run a software venture called **[Geome7ric](https://geome7ric.com)**.
 
 ---
 
@@ -11,7 +11,7 @@ When I'm not coding, you'll find me at the gym, playing soccer, or hanging out w
 - 🔧 **Testing & CI/CD**: Writing tests to ensure code quality and setting up smooth deployment pipelines.
 - 🌐 **API Integrations**: Designing and implementing integrations for seamless communication across platforms.
 - 💾 **Database Management**: Optimizing and managing databases for performance and scalability.
-- ☁️ **Cloud & DevOps**: Deploying solutions on cloud platforms like AWS and Docker.
+- ☁️ **Cloud & DevOps**: Deploying solutions on cloud platforms like AWS and Vercel.
 
 ---
 
@@ -24,8 +24,10 @@ Here’s a list of tools and technologies I use regularly:
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+![Quasar](https://img.shields.io/badge/Quasar-43B8D9?style=flat-square&logo=quasar&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
@@ -45,7 +47,7 @@ Here’s a list of tools and technologies I use regularly:
 ---
 
 ### Fun Fact:
-I love coding, but I also enjoy playing soccer 🏆, hanging out with friends, and staying active. When it comes to work, I’m all about building **clean**, **scalable**, and **efficient** systems that just work. 💻
+I’m all about coding, but I also love staying active—whether it’s hitting the gym 💪, playing soccer with my friends ⚽, or just enjoying a good time with family. I believe in building not just **reliable systems**, but a **balanced life**. It’s about making everything work—both in tech and in life! 🌱
 
 ---
 
