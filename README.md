@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Matías Ríos
+# Hey there! 👋 I'm Matias Rios
 
 I'm a **Software Engineer** with 4+ years of experience working across different industries, from e-commerce to logistics and healthcare. I’m passionate about **building scalable systems**, improving performance, and making things work smoothly. I’ve worked on everything from mobile apps to backend APIs, but my heart lies in crafting clean, efficient, and reliable systems.  
 
@@ -41,7 +41,7 @@ Here’s a list of tools and technologies I use regularly:
 
 ### Let’s Connect!  
 - 📧 **Email**: [matiasjriosb@gmail.com](mailto:matiasjriosb@gmail.com)  
-- 🌐 **LinkedIn**: [Matías Ríos](https://www.linkedin.com/in/matiasjriosb/)  
+- 🌐 **LinkedIn**: [Matias Rios](https://www.linkedin.com/in/matiasjriosb/)  
 
 ---
 
