@@ -53,16 +53,6 @@ Co-Founder of **[Geome7ric](https://geome7ric.com/)**, where I design and ship e
 
 ---
 
-### Side Projects
-
-🚗 **[Asiento Libre](https://github.com/MatiasJRB/asiento-libre)** — Carpooling app for Argentina (BlaBlaCar-style). React Native + Expo + Supabase.
-
-🤖 **Ferret** — AI knowledge assistant SaaS. RAG pipeline, Slack integration, multi-tenant billing.
-
-📅 **Turnero** — Multi-tenant booking SaaS for independent professionals. Next.js + Supabase + Google Calendar + WhatsApp.
-
----
-
 ### Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matiasjrb.com.ar-000?style=flat-square&logo=vercel&logoColor=white)](https://matiasjrb.com.ar)
